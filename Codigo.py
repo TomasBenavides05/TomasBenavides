@@ -1,6 +1,7 @@
 print ("Hola Juan Fernando")
 i  = -1
-while i <= 2:
+while i <= 0:
     print("Este es un cambio de Nico")
     i += 1 
-print("listo")
+print("listooou Nico modificó")
+
